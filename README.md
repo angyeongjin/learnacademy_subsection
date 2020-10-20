@@ -21,6 +21,6 @@
 
 
 ## 사용 기술
-Front End : Vue.js, html, css  
-Back End : spring boot  
+Front End : Vue.js, javascript, html, css  
+Back End : spring boot, Kotlin  
 Database : mysql, JPA  
