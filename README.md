@@ -10,7 +10,7 @@
 학원 (등록, 학원 인증 등) 기능  
 
 - commit log
-![commit log](/commit log.PNG)
+![commit log](/commit_log.PN
 
 
 ## 팀 구성
