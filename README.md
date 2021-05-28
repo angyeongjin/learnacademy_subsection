@@ -9,8 +9,8 @@
 회원 (가입, 로그인, 인증 등) 기능  
 학원 (등록, 학원 인증 등) 기능  
 
-- commit log
-![commit log](/commit_log.PN
+- commit log  
+![commit log](/commit_log.PNG)
 
 
 ## 팀 구성
